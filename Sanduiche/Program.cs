@@ -1,8 +1,8 @@
 ﻿namespace Sanduiche;
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Sanduíche de Mortadela com Queijo está pronto!");
     }
 }
